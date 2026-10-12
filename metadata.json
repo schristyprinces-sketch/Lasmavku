@@ -1,0 +1,6 @@
+{
+  "name": "LASMAVKU Tourism System",
+  "description": "Integrated Municipality Tour Package and Destination Management System for Lapuyan, San Miguel, Margosatubig, Vincenzo A. Sagun, and Kumalarang in Zamboanga del Sur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
